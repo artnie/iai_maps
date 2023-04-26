@@ -2827,11 +2827,11 @@
           <mesh filename="package://iai_apartment/meshes/unreal/SM_Dishwasher_Tray_01.dae" />
         </geometry>
       </visual>
-      <collision>
+<!--       <collision>
         <geometry>
           <mesh filename="package://iai_apartment/meshes/unreal/SM_Dishwasher_Tray_01.stl" />
         </geometry>
-      </collision>
+      </collision> -->
     </link>
 
     <joint name="dishwasher_tray2_joint" type="prismatic">
@@ -2848,11 +2848,11 @@
           <mesh filename="package://iai_apartment/meshes/unreal/SM_Dishwasher_Tray_02.dae" />
         </geometry>
       </visual>
-      <collision>
+<!--       <collision>
         <geometry>
           <mesh filename="package://iai_apartment/meshes/unreal/SM_Dishwasher_Tray_02.stl" />
         </geometry>
-      </collision>
+      </collision> -->
     </link>
 
     <joint name="dishwasher_tray3_joint" type="prismatic">
@@ -2869,11 +2869,11 @@
           <mesh filename="package://iai_apartment/meshes/unreal/SM_Dishwasher_Tray_03.dae" />
         </geometry>
       </visual>
-      <collision>
+<!--       <collision>
         <geometry>
           <mesh filename="package://iai_apartment/meshes/unreal/SM_Dishwasher_Tray_03.stl" />
         </geometry>
-      </collision>
+      </collision> -->
     </link>
 
     <!-- Cabinet8 -->
